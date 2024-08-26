@@ -1,0 +1,6 @@
+Does a Tween on camGame.
+value1: Amount of Zoom you want (Based off of defaultCamZoom values)
+value2 the amount of time the Tween will take
+
+if value1 is empty it'll go back to the original zoom value
+if value2 is empty then the time will be 0.5

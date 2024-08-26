@@ -1,0 +1,6 @@
+Use this event to change certain properties from the PlayState
+value1 = property you want to change
+value2 = true or false
+value2 entries can consist of the following:
+t or true
+f or false, if left empty it will default to true

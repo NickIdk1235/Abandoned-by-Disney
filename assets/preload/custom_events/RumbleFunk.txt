@@ -1,0 +1,4 @@
+toggles camera shake
+V1 = strength
+if V2 has "inst" in it then the timer will only loop 10 times
+unlike usually, where it's just infinite

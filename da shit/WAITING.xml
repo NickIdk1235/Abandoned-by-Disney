@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WAITING.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GO WAITING0000" x="10" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0001" x="729" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0002" x="1448" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0003" x="1448" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0004" x="2167" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0005" x="2167" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0006" x="2886" y="10" width="709" height="991"/>
+	<SubTexture name="GO WAITING0007" x="10" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0008" x="729" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0009" x="1448" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0010" x="1448" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0011" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0012" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0013" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0014" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0015" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0016" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0017" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0018" x="2886" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0019" x="10" y="2012" width="709" height="991"/>
+	<SubTexture name="GO WAITING0020" x="729" y="2012" width="709" height="991"/>
+	<SubTexture name="GO WAITING0021" x="729" y="2012" width="709" height="991"/>
+	<SubTexture name="GO WAITING0022" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0023" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0024" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0025" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0026" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0027" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0028" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0029" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO WAITING0030" x="1448" y="2012" width="709" height="991"/>
+	<SubTexture name="GO WAITING0031" x="10" y="2012" width="709" height="991"/>
+	<SubTexture name="GO WAITING0032" x="10" y="2012" width="709" height="991"/>
+	<SubTexture name="GO WAITING0033" x="10" y="2012" width="709" height="991"/>
+</TextureAtlas>

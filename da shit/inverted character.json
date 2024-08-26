@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Inverted staticidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Inverted Leftnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-71
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Inverted Downote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Inverted Upnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Inverted Rightnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				262,
+				7
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Inverted Alt-leftnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-67
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Inverted Alt-downote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				48
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Inverted Alt-upnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-19
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Inverted Alt-rightnote",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Inverted",
+	"position": [
+		10,
+		-230
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-110,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

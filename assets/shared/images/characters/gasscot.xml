@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gasscot.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gascots Downnote0000" x="34" y="34" width="452" height="694" frameX="-9" frameY="0" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0001" x="34" y="34" width="452" height="694" frameX="-9" frameY="0" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0002" x="521" y="34" width="458" height="680" frameX="-6" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0003" x="521" y="34" width="458" height="680" frameX="-6" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0004" x="1014" y="34" width="469" height="666" frameX="0" frameY="-28" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0005" x="1014" y="34" width="469" height="666" frameX="0" frameY="-28" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0006" x="1518" y="34" width="465" height="670" frameX="-2" frameY="-24" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0007" x="1518" y="34" width="465" height="670" frameX="-2" frameY="-24" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0008" x="2018" y="34" width="463" height="677" frameX="-3" frameY="-17" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0009" x="2018" y="34" width="463" height="677" frameX="-3" frameY="-17" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0010" x="2018" y="34" width="463" height="677" frameX="-3" frameY="-17" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0011" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0012" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0013" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0014" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0015" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0016" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0017" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0018" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Downnote0019" x="2516" y="34" width="463" height="680" frameX="-3" frameY="-14" frameWidth="469" frameHeight="694"/>
+	<SubTexture name="Gascots Idle0000" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0001" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0002" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0003" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0004" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0005" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0006" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0007" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0008" x="3624" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0009" x="3624" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0010" x="4234" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0011" x="4234" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0012" x="4844" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0013" x="4844" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0014" x="5454" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0015" x="6064" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0016" x="6674" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0017" x="7284" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0018" x="34" y="879" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0019" x="34" y="879" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0020" x="644" y="879" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0021" x="644" y="879" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0022" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0023" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0024" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0025" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0026" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0027" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0028" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Idle0029" x="3014" y="34" width="575" height="810"/>
+	<SubTexture name="Gascots Leftnote0000" x="1254" y="879" width="550" height="743" frameX="-7" frameY="0" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0001" x="1254" y="879" width="550" height="743" frameX="-7" frameY="0" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0002" x="1839" y="879" width="552" height="734" frameX="-5" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0003" x="1839" y="879" width="552" height="734" frameX="-5" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0004" x="2426" y="879" width="557" height="721" frameX="0" frameY="-22" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0005" x="3018" y="879" width="557" height="726" frameX="0" frameY="-17" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0006" x="3018" y="879" width="557" height="726" frameX="0" frameY="-17" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0007" x="3610" y="879" width="554" height="733" frameX="-3" frameY="-10" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0008" x="3610" y="879" width="554" height="733" frameX="-3" frameY="-10" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0009" x="4199" y="879" width="550" height="736" frameX="-7" frameY="-7" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0010" x="4199" y="879" width="550" height="736" frameX="-7" frameY="-7" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0011" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0012" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0013" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0014" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0015" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0016" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0017" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0018" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Leftnote0019" x="4784" y="879" width="550" height="734" frameX="-7" frameY="-9" frameWidth="557" frameHeight="743"/>
+	<SubTexture name="Gascots Rightnote0000" x="5369" y="879" width="552" height="791" frameX="0" frameY="0" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0001" x="5369" y="879" width="552" height="791" frameX="0" frameY="0" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0002" x="5956" y="879" width="556" height="786" frameX="0" frameY="-5" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0003" x="5956" y="879" width="556" height="786" frameX="0" frameY="-5" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0004" x="6547" y="879" width="559" height="776" frameX="0" frameY="-15" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0005" x="6547" y="879" width="559" height="776" frameX="0" frameY="-15" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0006" x="6547" y="879" width="559" height="776" frameX="0" frameY="-15" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0007" x="7141" y="879" width="549" height="781" frameX="0" frameY="-10" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0008" x="7141" y="879" width="549" height="781" frameX="0" frameY="-10" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0009" x="34" y="1724" width="546" height="784" frameX="0" frameY="-7" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0010" x="34" y="1724" width="546" height="784" frameX="0" frameY="-7" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0011" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0012" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0013" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0014" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0015" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0016" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0017" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0018" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0019" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0020" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0021" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots Rightnote0022" x="615" y="1724" width="546" height="787" frameX="0" frameY="-4" frameWidth="559" frameHeight="791"/>
+	<SubTexture name="Gascots UpNote0000" x="1196" y="1724" width="514" height="906" frameX="0" frameY="-17" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0001" x="1196" y="1724" width="514" height="906" frameX="0" frameY="-17" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0002" x="1745" y="1724" width="510" height="916" frameX="-2" frameY="-7" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0003" x="1745" y="1724" width="510" height="916" frameX="-2" frameY="-7" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0004" x="2290" y="1724" width="508" height="923" frameX="-3" frameY="0" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0005" x="2290" y="1724" width="508" height="923" frameX="-3" frameY="0" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0006" x="2833" y="1724" width="510" height="919" frameX="-2" frameY="-4" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0007" x="2833" y="1724" width="510" height="919" frameX="-2" frameY="-4" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0008" x="3378" y="1724" width="512" height="912" frameX="-1" frameY="-11" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0009" x="3378" y="1724" width="512" height="912" frameX="-1" frameY="-11" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0010" x="3925" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0011" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0012" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0013" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0014" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0015" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0016" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0017" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0018" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+	<SubTexture name="Gascots UpNote0019" x="4472" y="1724" width="512" height="908" frameX="-1" frameY="-15" frameWidth="514" frameHeight="923"/>
+</TextureAtlas>

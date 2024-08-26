@@ -1,0 +1,6 @@
+does a smoother tweenZoom
+
+value1 = the desired zoom level
+value2 = the time it takes to zoom, put a comma and then a letter 
+after the time entered to make the default camera zoom whatever value1 is.
+(it doesn't matter what letter you put after the comma as long as it isn't empty) 

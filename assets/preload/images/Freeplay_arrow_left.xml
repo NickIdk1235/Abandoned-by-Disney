@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Freeplay arrow left.png">
+<SubTexture name="Freeplay arrow left lit0000" x="0" y="0" width="430" height="417" frameX="-286" frameY="-396" frameWidth="1000" frameHeight="1200" />
+<SubTexture name="Freeplay arrow left nolight0000" x="430" y="0" width="376" height="365" frameX="-317" frameY="-421" frameWidth="1000" frameHeight="1200" />
+</TextureAtlas>

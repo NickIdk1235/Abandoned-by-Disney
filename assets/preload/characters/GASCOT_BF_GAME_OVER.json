@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "DEATH START"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "DEATH CONFIRM"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "DEATH WAIT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "GASCOT_BF_GAME_OVER",
+	"position": [
+		-300,
+		150
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		20,
+		15
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

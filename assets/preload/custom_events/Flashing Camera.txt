@@ -1,0 +1,7 @@
+Value1 = The amount of time you want the flash to last for.
+value2 = the color the flash will be the colors are listed below:
+red, yellow, green, cyan, blue, purple, pink,
+black, grey, orange
+anything other than these colors will make the flash white.
+If you leave Value1 empty the flash will last for 
+0.5 seconds

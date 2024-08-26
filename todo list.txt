@@ -1,0 +1,21 @@
+here's the list of things to do from the boss man
+-hallucination mechanic screens to be imported (the images that randomly flicker during gameplay)
+-Game Over animations
+-Inverted Character Sprites
+-Inverted Character song and Chart
+-first 8:20 of this song to be used for the menu themes (we have permission) https://www.youtube.com/watch?v=Jg_QwWE_5cY&t=483s
+-Liminal Yoo-Hoo as freeplay theme
+-select sounds that we discussed (camera flash sound)
+-Warning Screen
+-font
+-title cards
+-Menu Bgs
+-Animated Logo
+-all the stuff in the cacophony song build you made
+-note assets
+-those screen blood effects instead of hp bar
+-the bar sitting behind the notes 
+-replacement of the sick good bad shit ratings
+-import negativity Bg with the flickering lights
+-new Gf sprite
+Aaaand thats it for now. all of this is going to be placed in the * NEW * folder in the shared drive

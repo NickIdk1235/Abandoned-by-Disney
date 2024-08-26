@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gascots Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-82
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gascots Leftnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gascots Downnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gascots Rightnote",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gascots UpNote",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gasscot",
+	"position": [
+		-30,
+		-30
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-110,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

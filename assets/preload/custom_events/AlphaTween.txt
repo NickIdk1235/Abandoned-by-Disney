@@ -1,0 +1,6 @@
+Tweens the Alpha of objects
+value1: the object you want to Tween
+value2: alpha, time
+
+value1 should have the object's tag
+value2 should be put like this: "0,1"

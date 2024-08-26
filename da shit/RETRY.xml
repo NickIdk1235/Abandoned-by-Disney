@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RETRY.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GO RETRY0000" x="10" y="10" width="709" height="991"/>
+	<SubTexture name="GO RETRY0001" x="729" y="10" width="709" height="991"/>
+	<SubTexture name="GO RETRY0002" x="1448" y="10" width="709" height="991"/>
+	<SubTexture name="GO RETRY0003" x="2167" y="10" width="709" height="991"/>
+	<SubTexture name="GO RETRY0004" x="2886" y="10" width="709" height="991"/>
+	<SubTexture name="GO RETRY0005" x="10" y="1011" width="709" height="991"/>
+	<SubTexture name="GO RETRY0006" x="729" y="1011" width="709" height="991"/>
+	<SubTexture name="GO RETRY0007" x="1448" y="1011" width="709" height="991"/>
+	<SubTexture name="GO RETRY0008" x="2167" y="1011" width="709" height="991"/>
+	<SubTexture name="GO RETRY0009" x="2886" y="1011" width="709" height="991"/>
+	<SubTexture name="GO RETRY0010" x="10" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0011" x="729" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0012" x="1448" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0013" x="2167" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0014" x="2886" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0015" x="2886" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0016" x="2886" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0017" x="2886" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0018" x="2886" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0019" x="2886" y="2012" width="709" height="991"/>
+	<SubTexture name="GO RETRY0020" x="10" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0021" x="10" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0022" x="729" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0023" x="729" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0024" x="1448" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0025" x="1448" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0026" x="2167" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0027" x="2167" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0028" x="2886" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0029" x="2886" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0030" x="2886" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0031" x="2886" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0032" x="2886" y="3013" width="709" height="991"/>
+	<SubTexture name="GO RETRY0033" x="2886" y="3013" width="709" height="991"/>
+</TextureAtlas>

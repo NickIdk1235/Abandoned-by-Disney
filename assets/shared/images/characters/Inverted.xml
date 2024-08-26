@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Inverted.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Inverted Alt-downote0000" x="34" y="34" width="669" height="910" frameX="-6" frameY="-28" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0001" x="738" y="34" width="694" height="912" frameX="-7" frameY="-26" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0002" x="738" y="34" width="694" height="912" frameX="-7" frameY="-26" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0003" x="1467" y="34" width="695" height="920" frameX="-5" frameY="-18" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0004" x="1467" y="34" width="695" height="920" frameX="-5" frameY="-18" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0005" x="2197" y="34" width="694" height="937" frameX="-1" frameY="-1" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0006" x="2197" y="34" width="694" height="937" frameX="-1" frameY="-1" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0007" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0008" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0009" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0010" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0011" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0012" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0013" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0014" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0015" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0016" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0017" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0018" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-downote0019" x="2926" y="34" width="691" height="938" frameX="0" frameY="0" frameWidth="701" frameHeight="938"/>
+	<SubTexture name="Inverted Alt-leftnote0000" x="3652" y="34" width="697" height="998" frameX="0" frameY="0" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0001" x="3652" y="34" width="697" height="998" frameX="0" frameY="0" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0002" x="4384" y="34" width="700" height="996" frameX="-5" frameY="-2" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0003" x="4384" y="34" width="700" height="996" frameX="-5" frameY="-2" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0004" x="5119" y="34" width="705" height="996" frameX="-8" frameY="-2" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0005" x="5119" y="34" width="705" height="996" frameX="-8" frameY="-2" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0006" x="5859" y="34" width="713" height="997" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0007" x="5859" y="34" width="713" height="997" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0008" x="6607" y="34" width="716" height="996" frameX="-8" frameY="-2" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0009" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0010" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0011" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0012" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0013" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0014" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0015" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0016" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0017" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0018" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0019" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-leftnote0020" x="6607" y="34" width="716" height="996" frameX="-7" frameY="-1" frameWidth="724" frameHeight="998"/>
+	<SubTexture name="Inverted Alt-rightnote0000" x="7358" y="34" width="575" height="947" frameX="-2" frameY="-9" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0001" x="7358" y="34" width="575" height="947" frameX="-2" frameY="-9" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0002" x="34" y="1067" width="568" height="949" frameX="-2" frameY="-7" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0003" x="34" y="1067" width="568" height="949" frameX="-2" frameY="-7" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0004" x="637" y="1067" width="563" height="955" frameX="-2" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0005" x="637" y="1067" width="563" height="955" frameX="-2" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0006" x="1235" y="1067" width="559" height="956" frameX="-1" frameY="0" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0007" x="1829" y="1067" width="560" height="956" frameX="0" frameY="0" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0008" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0009" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0010" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0011" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0012" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0013" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0014" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0015" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0016" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0017" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0018" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-rightnote0019" x="2424" y="1067" width="560" height="955" frameX="0" frameY="-1" frameWidth="577" frameHeight="956"/>
+	<SubTexture name="Inverted Alt-upnote0000" x="3019" y="1067" width="452" height="1009" frameX="-14" frameY="0" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0001" x="3019" y="1067" width="452" height="1009" frameX="-14" frameY="0" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0002" x="3506" y="1067" width="461" height="1007" frameX="0" frameY="-2" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0003" x="3506" y="1067" width="461" height="1007" frameX="0" frameY="-2" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0004" x="4002" y="1067" width="454" height="996" frameX="-1" frameY="-13" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0005" x="4002" y="1067" width="454" height="996" frameX="-1" frameY="-13" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0006" x="4491" y="1067" width="450" height="990" frameX="-4" frameY="-19" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0007" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0008" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0009" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0010" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0011" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0012" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0013" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0014" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0015" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0016" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0017" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0018" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Alt-upnote0019" x="4976" y="1067" width="451" height="991" frameX="-4" frameY="-18" frameWidth="466" frameHeight="1009"/>
+	<SubTexture name="Inverted Downote0000" x="5462" y="1067" width="931" height="847" frameX="-18" frameY="-29" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0001" x="5462" y="1067" width="931" height="847" frameX="-18" frameY="-29" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0002" x="6428" y="1067" width="935" height="861" frameX="-11" frameY="-15" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0003" x="6428" y="1067" width="935" height="861" frameX="-11" frameY="-15" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0004" x="34" y="2111" width="933" height="875" frameX="-2" frameY="-1" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0005" x="34" y="2111" width="933" height="875" frameX="-2" frameY="-1" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0006" x="1002" y="2111" width="932" height="875" frameX="-1" frameY="-1" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0007" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0008" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0009" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0010" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0011" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0012" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0013" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0014" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0015" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0016" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0017" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0018" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0019" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0020" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0021" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0022" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Downote0023" x="1969" y="2111" width="933" height="876" frameX="0" frameY="0" frameWidth="949" frameHeight="876"/>
+	<SubTexture name="Inverted Leftnote0000" x="2937" y="2111" width="455" height="986" frameX="0" frameY="-3" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0001" x="2937" y="2111" width="455" height="986" frameX="0" frameY="-3" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0002" x="3427" y="2111" width="457" height="984" frameX="-1" frameY="-5" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0003" x="3427" y="2111" width="457" height="984" frameX="-1" frameY="-5" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0004" x="3919" y="2111" width="459" height="986" frameX="-4" frameY="-3" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0005" x="3919" y="2111" width="459" height="986" frameX="-4" frameY="-3" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0006" x="4413" y="2111" width="458" height="987" frameX="-10" frameY="-2" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0007" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0008" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0009" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0010" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0011" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0012" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0013" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0014" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0015" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0016" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0017" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0018" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0019" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Leftnote0020" x="4906" y="2111" width="460" height="989" frameX="-10" frameY="0" frameWidth="470" frameHeight="989"/>
+	<SubTexture name="Inverted Rightnote0000" x="5401" y="2111" width="600" height="947" frameX="-1" frameY="0" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0001" x="5401" y="2111" width="600" height="947" frameX="-1" frameY="0" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0002" x="6036" y="2111" width="590" height="945" frameX="-1" frameY="-2" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0003" x="6036" y="2111" width="590" height="945" frameX="-1" frameY="-2" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0004" x="6661" y="2111" width="583" height="938" frameX="-1" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0005" x="6661" y="2111" width="583" height="938" frameX="-1" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0006" x="7279" y="2111" width="575" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0007" x="7279" y="2111" width="575" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0008" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0009" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0010" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0011" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0012" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0013" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0014" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0015" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0016" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0017" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0018" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Rightnote0019" x="34" y="3135" width="569" height="938" frameX="0" frameY="-9" frameWidth="601" frameHeight="947"/>
+	<SubTexture name="Inverted Upnote0000" x="638" y="3135" width="434" height="1010" frameX="-4" frameY="0" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0001" x="638" y="3135" width="434" height="1010" frameX="-4" frameY="0" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0002" x="1107" y="3135" width="437" height="1005" frameX="-3" frameY="-5" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0003" x="1107" y="3135" width="437" height="1005" frameX="-3" frameY="-5" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0004" x="1579" y="3135" width="442" height="1001" frameX="-1" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0005" x="1579" y="3135" width="442" height="1001" frameX="-1" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0006" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0007" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0008" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0009" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0010" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0011" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0012" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0013" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0014" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0015" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0016" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0017" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0018" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0019" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted Upnote0020" x="2056" y="3135" width="444" height="1001" frameX="0" frameY="-9" frameWidth="444" frameHeight="1010"/>
+	<SubTexture name="Inverted staticidle0000" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0001" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0002" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0003" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0004" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0005" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0006" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0007" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0008" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0009" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0010" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0011" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0012" x="2535" y="3135" width="396" height="960"/>
+	<SubTexture name="Inverted staticidle0013" x="2535" y="3135" width="396" height="960"/>
+</TextureAtlas>

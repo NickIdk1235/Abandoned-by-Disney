@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Lights (require flickering).png">
+<SubTexture name="Lights (require flickering) idle0000" x="1980" y="0" width="1980" height="1113" frameX="0" frameY="-91" frameWidth="1980" frameHeight="1280" />
+<SubTexture name="Lights (require flickering) idle0001" x="0" y="0" width="1980" height="1280" frameX="0" frameY="0" frameWidth="1980" frameHeight="1280" />
+</TextureAtlas>

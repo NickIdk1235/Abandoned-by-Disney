@@ -1,0 +1,10 @@
+Value1 = Sprite/Character you want to color
+Value2 = color,time,ease
+if v2 is empty, the value made for it will be
+white,0.5,linear
+in v2, put the color first, then time, then ease
+if ease is empty it'll just be linear ease
+colors shortcuts available will be the colors are listed below:
+red, yellow, green, cyan, blue, purple, pink,
+black, grey, orange, white, gray, lightgray, darkgray, crimson, brown, brownorange
+you can also just put in the hexcode for what color you want to use

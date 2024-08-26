@@ -1,0 +1,2 @@
+Forces whatever character in value1 to do their idle animation
+Can be boyfriend, dad or gf (0, 1, 2)

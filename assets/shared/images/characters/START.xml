@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="START.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GO START0000" x="10" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0001" x="1081" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0002" x="2152" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0003" x="2152" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0004" x="1081" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0005" x="3223" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0006" x="4294" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0007" x="4294" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0008" x="3223" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0009" x="5365" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0010" x="6436" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0011" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0012" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0013" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0014" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0015" x="1081" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0016" x="1081" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0017" x="1081" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0018" x="1081" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0019" x="2152" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0020" x="1081" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0021" x="2152" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0022" x="2152" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0023" x="1081" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0024" x="1081" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0025" x="4294" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0026" x="4294" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0027" x="3223" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0028" x="5365" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0029" x="5365" y="10" width="1061" height="1183"/>
+	<SubTexture name="GO START0030" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0031" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0032" x="10" y="1203" width="1061" height="1183"/>
+	<SubTexture name="GO START0033" x="10" y="1203" width="1061" height="1183"/>
+</TextureAtlas>

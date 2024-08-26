@@ -1,0 +1,4 @@
+Changes the when the character will bop their heads, think of it as set gf Speed
+value1 = character; (bf, gf, dad)/(0, 2, 1) if left empty will default to bf
+value2 = bopSpeed; if left empty will default to 2
+MUST BE INTEGER

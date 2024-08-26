@@ -1,0 +1,3 @@
+Makes a flicker effect on the cameras
+by default only does camGame and camHUD
+Value 1 = delay

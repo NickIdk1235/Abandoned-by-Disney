@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Gascots Sprites COMM.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN0000" x="10" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0001" x="10" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0002" x="422" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0003" x="422" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0004" x="834" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0005" x="834" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0006" x="1246" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0007" x="1246" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0008" x="1658" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0009" x="1658" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0010" x="2070" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0011" x="2070" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0012" x="1658" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN0013" x="1658" y="10" width="402" height="586"/>
+	<SubTexture name="DOWN KID0000" x="2482" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0001" x="2482" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0002" x="2714" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0003" x="2714" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0004" x="2946" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0005" x="2946" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0006" x="2714" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0007" x="2714" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0008" x="2946" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0009" x="2946" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0010" x="2714" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0011" x="2714" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0012" x="2946" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN KID0013" x="2946" y="10" width="222" height="424"/>
+	<SubTexture name="DOWN WOMAN0000" x="3178" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0001" x="3178" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0002" x="3442" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0003" x="3442" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0004" x="3706" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0005" x="3706" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0006" x="3442" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0007" x="3442" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0008" x="3706" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0009" x="3706" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0010" x="3442" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0011" x="3442" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0012" x="3706" y="10" width="254" height="670"/>
+	<SubTexture name="DOWN WOMAN0013" x="3706" y="10" width="254" height="670"/>
+	<SubTexture name="IDLE0000" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0001" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0002" x="390" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0003" x="390" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0004" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0005" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0006" x="390" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0007" x="390" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0008" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0009" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0010" x="390" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0011" x="390" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0012" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE0013" x="10" y="690" width="370" height="695"/>
+	<SubTexture name="IDLE KID0000" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0001" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0002" x="989" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0003" x="989" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0004" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0005" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0006" x="989" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0007" x="989" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0008" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0009" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0010" x="989" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0011" x="989" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0012" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE KID0013" x="770" y="690" width="209" height="430"/>
+	<SubTexture name="IDLE WOMAN0000" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0001" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0002" x="1449" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0003" x="1449" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0004" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0005" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0006" x="1449" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0007" x="1449" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0008" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0009" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0010" x="1449" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0011" x="1449" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0012" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="IDLE WOMAN0013" x="1208" y="690" width="231" height="683"/>
+	<SubTexture name="LEFT 0000" x="1690" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0001" x="1690" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0002" x="2214" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0003" x="2214" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0004" x="2738" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0005" x="2738" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0006" x="3262" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0007" x="3262" y="690" width="514" height="640"/>
+	<SubTexture name="LEFT 0008" x="10" y="1395" width="514" height="640"/>
+	<SubTexture name="LEFT 0009" x="10" y="1395" width="514" height="640"/>
+	<SubTexture name="LEFT 0010" x="534" y="1395" width="514" height="640"/>
+	<SubTexture name="LEFT 0011" x="534" y="1395" width="514" height="640"/>
+	<SubTexture name="LEFT 0012" x="10" y="1395" width="514" height="640"/>
+	<SubTexture name="LEFT 0013" x="10" y="1395" width="514" height="640"/>
+	<SubTexture name="LEFT KID0000" x="1058" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0001" x="1058" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0002" x="1275" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0003" x="1275" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0004" x="1492" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0005" x="1492" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0006" x="1275" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0007" x="1275" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0008" x="1492" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0009" x="1492" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0010" x="1275" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0011" x="1275" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0012" x="1492" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT KID0013" x="1492" y="1395" width="207" height="422"/>
+	<SubTexture name="LEFT WOMAN0000" x="1709" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0001" x="1709" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0002" x="1985" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0003" x="1985" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0004" x="2261" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0005" x="2261" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0006" x="1985" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0007" x="1985" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0008" x="2261" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0009" x="2261" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0010" x="1985" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0011" x="1985" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0012" x="2261" y="1395" width="266" height="677"/>
+	<SubTexture name="LEFT WOMAN0013" x="2261" y="1395" width="266" height="677"/>
+	<SubTexture name="RIGHT0000" x="2537" y="1395" width="488" height="687"/>
+	<SubTexture name="RIGHT0001" x="2537" y="1395" width="488" height="687"/>
+	<SubTexture name="RIGHT0002" x="3035" y="1395" width="488" height="687"/>
+	<SubTexture name="RIGHT0003" x="3035" y="1395" width="488" height="687"/>
+	<SubTexture name="RIGHT0004" x="3533" y="1395" width="488" height="687"/>
+	<SubTexture name="RIGHT0005" x="3533" y="1395" width="488" height="687"/>
+	<SubTexture name="RIGHT0006" x="10" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0007" x="10" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0008" x="508" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0009" x="508" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0010" x="1006" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0011" x="1006" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0012" x="508" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT0013" x="508" y="2092" width="488" height="687"/>
+	<SubTexture name="RIGHT KID0000" x="1504" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0001" x="1504" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0002" x="1762" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0003" x="1762" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0004" x="2020" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0005" x="2020" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0006" x="1762" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0007" x="1762" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0008" x="2020" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0009" x="2020" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0010" x="1762" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0011" x="1762" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0012" x="2020" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT KID0013" x="2020" y="2092" width="248" height="432"/>
+	<SubTexture name="RIGHT WOMAN0000" x="2278" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0001" x="2278" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0002" x="2519" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0003" x="2519" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0004" x="2760" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0005" x="2760" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0006" x="2519" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0007" x="2519" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0008" x="2760" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0009" x="2760" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0010" x="2519" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0011" x="2519" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0012" x="2760" y="2092" width="231" height="669"/>
+	<SubTexture name="RIGHT WOMAN0013" x="2760" y="2092" width="231" height="669"/>
+	<SubTexture name="UP0000" x="3001" y="2092" width="389" height="755"/>
+	<SubTexture name="UP0001" x="3001" y="2092" width="389" height="755"/>
+	<SubTexture name="UP0002" x="3400" y="2092" width="389" height="755"/>
+	<SubTexture name="UP0003" x="3400" y="2092" width="389" height="755"/>
+	<SubTexture name="UP0004" x="10" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0005" x="10" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0006" x="409" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0007" x="409" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0008" x="808" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0009" x="808" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0010" x="1207" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0011" x="1207" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0012" x="808" y="2857" width="389" height="755"/>
+	<SubTexture name="UP0013" x="808" y="2857" width="389" height="755"/>
+	<SubTexture name="UP KID0000" x="1606" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0001" x="1606" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0002" x="1814" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0003" x="1814" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0004" x="2022" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0005" x="2022" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0006" x="1814" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0007" x="1814" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0008" x="2022" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0009" x="2022" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0010" x="1814" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0011" x="1814" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0012" x="2022" y="2857" width="198" height="442"/>
+	<SubTexture name="UP KID0013" x="2022" y="2857" width="198" height="442"/>
+	<SubTexture name="UP WOMAN0000" x="2230" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0001" x="2230" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0002" x="2455" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0003" x="2455" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0004" x="2680" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0005" x="2680" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0006" x="2455" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0007" x="2455" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0008" x="2680" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0009" x="2680" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0010" x="2455" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0011" x="2455" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0012" x="2680" y="2857" width="215" height="677"/>
+	<SubTexture name="UP WOMAN0013" x="2680" y="2857" width="215" height="677"/>
+</TextureAtlas>

@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE0"
+		},
+		{
+			"offsets": [
+				-70,
+				-260
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-kid",
+			"indices": [],
+			"name": "IDLE KID0"
+		},
+		{
+			"offsets": [
+				-110,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-woman",
+			"indices": [],
+			"name": "IDLE WOMAN"
+		},
+		{
+			"offsets": [
+				110,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RIGHT0"
+		},
+		{
+			"offsets": [
+				24,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN0"
+		},
+		{
+			"offsets": [
+				-3,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP0"
+		},
+		{
+			"offsets": [
+				-10,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LEFT 0"
+		},
+		{
+			"offsets": [
+				-27,
+				-258
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-kid",
+			"indices": [],
+			"name": "RIGHT KID"
+		},
+		{
+			"offsets": [
+				-59,
+				-266
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-kid",
+			"indices": [],
+			"name": "DOWN KID"
+		},
+		{
+			"offsets": [
+				-88,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-kid",
+			"indices": [],
+			"name": "UP KID"
+		},
+		{
+			"offsets": [
+				-112,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-kid",
+			"indices": [],
+			"name": "LEFT KID"
+		},
+		{
+			"offsets": [
+				-104,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-woman",
+			"indices": [],
+			"name": "DOWN WOMAN"
+		},
+		{
+			"offsets": [
+				-110,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-woman",
+			"indices": [],
+			"name": "UP WOMAN"
+		},
+		{
+			"offsets": [
+				-112,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-woman",
+			"indices": [],
+			"name": "LEFT WOMAN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gascots_Sprites",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		135,
+		20,
+		15
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
