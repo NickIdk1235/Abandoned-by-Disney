@@ -1,7 +1,9 @@
-THIS READ ME IS THE UNFINISHED VERSION
-
 # Abandoned by Disney
 [Friday Night Funkin': Abandoned by Disney](https://gamebanana.com/mods/537937) is an Friday Night Funkin' Fangame, Directed by Juddlee. It is a canon expansion/spinoff of the Abandoned by Disney series, being made with the approval of AbD's author, Slimebeast.
+![image](https://github.com/user-attachments/assets/583dc233-dc5b-4209-94fa-ee38cd757cc9)
+
+## Credits:
+![CreditsImage](https://github.com/user-attachments/assets/d3282e82-9f2d-44fb-9d4e-9852d50a5ea8)
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
@@ -18,23 +20,4 @@ If you get an error about StatePointer when using Lua, run `haxelib remove linc_
 If you want video support on your mod, simply do `haxelib install hxCodec` on a Command prompt/PowerShell
 
 otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
-
-## Credits:
-* Shadow Mario - Programmer
-* RiverOaken - Artist
-
-### Special Thanks
-* bbpanzu - Ex-Programmer
-* SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
-* KadeDev - Fixed some cool stuff on Chart Editor and other PRs
-* iFlicky - Composer of Psync and Tea Time, also made the Dialogue Sounds
-* PolybiusProxy - .MP4 Video Loader Library (hxCodec)
-* Keoiki - Note Splash Animations
-* Smokey - Sprite Atlas Support
-* Nebula the Zorua - LUA JIT Fork and some Lua reworks
 _____________________________________
-
-
-## Options menu:
-* You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
- * On Preferences you can toggle Downscroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
